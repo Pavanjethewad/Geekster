@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+}
+p{
+    color: coral;
+    background-color: black;
+}
+
+.paraclass1{
+    background-color: aqua;
+    color: rgb(7, 7, 6);
+}
+
+.paraclass2{
+    background-color: blueviolet;
+}
+#special{
+    background-color: crimson;
+}

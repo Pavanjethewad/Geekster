@@ -1,0 +1,36 @@
+.maincontainer{
+    /* height: 50vh; */
+    border: 2px solid black;
+    display: flex;
+    flex-direction:row;
+    /* justify-content:space-between; */
+    /* justify-content:space-between;
+    justify-content:space-around;
+    justify-content:space-around; */
+    /* align-items:center; */
+    flex-wrap: wrap;
+}
+
+.Subcontainer1,
+.Subcontainer2,
+.Subcontainer3,
+.Subcontainer4,
+
+.Subcontainer5,
+.Subcontainer6,
+.Subcontainer7,
+.Subcontainer8{
+  border: 2px solid red;
+  
+}
+
+/* .group1, .group2{
+    width: 100%;
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    border: 2px solid yellowgreen;
+
+} */
